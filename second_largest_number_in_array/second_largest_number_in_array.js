@@ -12,3 +12,5 @@ function getSecondLargest(nums) {
 
     return(nextbiggest);
 }
+
+console.log(getSecondLargest([4,5,3,1]))
